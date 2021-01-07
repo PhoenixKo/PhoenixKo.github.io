@@ -182,6 +182,17 @@
       margin-top: 250px; 
     }
 
+  .info-container {
+    width: 100%;
+    -moz-box-shadow:    inset 0 0 10px #cecece;
+   -webkit-box-shadow: inset 0 0 10px #cecece;
+   box-shadow:         inset 0 0 10px #cecece;
+   margin-top: 50px;
+  }
+
+  .info-privacy {
+    margin-top: 200px;
+  }
   /* Footer */
   .section-footer {
     padding-top: 60px;
