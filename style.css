@@ -109,7 +109,7 @@
   }
   
   .navbar-default.navbar-reduce .nav-link:before {
-    background-color: #turquoise;
+    background-color: turquoise;
   }
   
   .navbar-default.navbar-reduce .nav-link:hover {
