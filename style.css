@@ -182,7 +182,10 @@
       margin: auto;
       margin-top: 250px;
     }
-    
+
+    .container .contact-card{
+      margin-top: 50px;
+    }
   /* Footer */
   .section-footer {
     padding-top: 60px;
