@@ -164,8 +164,15 @@
       margin-top: 200px;
     }
 
+    .prices-header {
+      margin-top: 200px;
+    }
 
-
+    .table-prices {
+      width: 800px;
+      margin: auto;
+      margin-top: 80px;
+    }
   /* Footer */
   .section-footer {
     padding-top: 60px;
