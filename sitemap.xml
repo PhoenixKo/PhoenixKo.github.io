@@ -8,28 +8,38 @@
 
 
 <url>
-  <loc>https://phoenixko.github.io/EuroConsult/index.html</loc>
-  <lastmod>2021-01-05T16:44:58+00:00</lastmod>
+  <loc>https://phoenixko.github.io/</loc>
+  <lastmod>2021-01-07T13:45:38+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://phoenixko.github.io/EuroConsult/about.html</loc>
-  <lastmod>2021-01-05T16:44:58+00:00</lastmod>
+  <loc>https://phoenixko.github.io/index.html</loc>
+  <lastmod>2021-01-07T13:45:38+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://phoenixko.github.io/EuroConsult/services.html</loc>
-  <lastmod>2021-01-05T16:44:58+00:00</lastmod>
+  <loc>https://phoenixko.github.io/about.html</loc>
+  <lastmod>2021-01-07T13:45:38+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://phoenixko.github.io/EuroConsult/prices.html</loc>
-  <lastmod>2021-01-05T16:44:58+00:00</lastmod>
+  <loc>https://phoenixko.github.io/services.html</loc>
+  <lastmod>2021-01-07T13:45:38+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://phoenixko.github.io/EuroConsult/contacts.html</loc>
-  <lastmod>2021-01-05T16:44:58+00:00</lastmod>
+  <loc>https://phoenixko.github.io/prices.html</loc>
+  <lastmod>2021-01-07T13:45:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://phoenixko.github.io/contacts.html</loc>
+  <lastmod>2021-01-07T13:45:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://phoenixko.github.io/policy.html</loc>
+  <lastmod>2021-01-07T13:45:38+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
